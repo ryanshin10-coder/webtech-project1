@@ -32,3 +32,39 @@ Your SPA project must have:
 for my files, you can just refer to them by name (eg. data4njq.html)
 . indicate how much different your code
 Fulfilling the Project Check-list will be 80% of your grade with the last 20% based on the quality, value and creativity of work. Each entry in the check-list must indicate line-numbers that are responsible for fulfilling the entry and where applicable must be at some point visible in the SPA. An example of the Check-list will be provided before the project is due.
+# git
+git: local repository
+github: remote repository
+
+git: commit (local save)
+github: push (remote upload)
+
+master, branch
+
+- Basic Usage -
+1. repository creation (git: git init, github: create new repository)
+2. git add Filename or *.extention / git add . (all files)
+3. git commit -m "message"
+4. git status : check
+5. git remote add origin https://github.com/Username/RepositoryName
+6. git push origin(remote) master or git push origin bran01
+7. git pull (git pull origin(remote) master)
+8. git clone [url] : download to local
+9. git checkout master
+10. git merge bran01
+11. git log
+12. git grep
+13. git remote : 원격 저장소 목록 표시, -v: 세부 목록, add(#5), rm
+14. git reset -soft HEAD ^ 
+
+- Basic Concept -
+
+
+
+
+
+- Branch -
+
+git branch : branch check
+git checout -b bran01 (git branch bran01 & git checkout bran01)
+git branch -d bran01 : delete branch
