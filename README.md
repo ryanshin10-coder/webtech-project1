@@ -60,7 +60,7 @@ master, branch
 - Basic Concept -
 
 
-![git](https://user-images.githubusercontent.com/68491757/142260638-1fcdee47-7d2c-4905-8ab9-973462029afc.PNG)
+![image](https://user-images.githubusercontent.com/68491757/142261040-39ae4e21-6c12-4e4d-9ad2-9a31265bbe04.png)
 
 
 
