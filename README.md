@@ -58,6 +58,8 @@ master, branch
 14. git reset -soft HEAD ^ 
 
 - Basic Concept -
+
+
 ![git](https://user-images.githubusercontent.com/68491757/142260638-1fcdee47-7d2c-4905-8ab9-973462029afc.PNG)
 
 
